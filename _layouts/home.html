@@ -1,0 +1,58 @@
+---
+color: "white-70 hover-white"
+---
+{% include head.html %}
+
+<header class="sans-serif">
+  <div class="cover bg-left bg-center-l" style='background-image: url({{ "/assets/img/hero_rigolet.jpg" | relative_url }})'>
+    <div class="bg-black-80 pb5 pb6-m pb7-l">
+      {% include header_links.html %}
+      <div class="tc-l mt4 mt5-m mt6-l ph3">
+        <h1 class="f2 f1-l fw2 white-90 mb0 lh-title">Jason Ernst</h1>
+        <h2 class="mv0 fw1 f3 white-80 mt3 mb4 light-silver lh-title normal">Computer Scientist and Software Developer. </h2>
+
+        <div class="mv3">
+          <a href="/tag/android" class="pv1 ph1 br2 bg-near-white red no-underline f6 code">Android</a>
+          <a href="/tag/java" class="pv1 ph1 br2 bg-near-white red no-underline f6 code">Java</a>
+          <a href="/tag/c-c-plus-plus" class="pv1 ph1 br2 bg-near-white red no-underline f6 code">C/C++</a>
+          <a href="/tag/network-protocols" class="pv1 ph1 br2 bg-near-white red no-underline f6 code">Network Protocols</a>
+          <a href="/tag/software-development" class="pv1 ph1 br2 bg-near-white red no-underline f6 code">Software Development</a>
+        </div>
+
+        <!--
+        <h2 class="fw1 f3 white-80 mt3 mb4">Java, Android, C/C++, Network Protocols, Software Development</h2>
+        <a class="f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3" href="/">Call to Action</a>
+        <span class="dib v-mid ph3 white-70 mb3">or</span>
+        <a class="f6 no-underline grow dib v-mid white ba b--white ph3 pv2 mb3" href="">Secondary call to action</a>-->
+      </div>
+    </div>
+  </div>
+</header>
+
+<section class="mw8 center">
+  <h2 class="athelas ph3 ph0-l">Recent Posts</h2>
+
+{% for post in site.posts %}
+  <article class="pv4 bt bb b--black-10 ph3 ph0-l">
+    <div class="flex flex-column flex-row-ns">
+      <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
+        <a href="{{ post.url }}" class="no-underline near-black link"><h1 class="f3 athelas mt0 lh-title">{{ post.title }}</h1></a>
+        <time class="f6 db gray">{{ post.date | date_to_string }}</time>
+        <p class="f5 f4-l lh-copy athelas"> {{ post.excerpt }} </p>
+        <div class="mv3">
+          {% for tag in post.tags %}
+          <a href="/tag/{{ tag }}" class="pv1 ph1 br2 bg-near-white red no-underline f6 code">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
+        <img src="/assets/img/{{ post.featured-image }}" class="db" alt="{{ post.featured-alt }}">
+      </div>
+    </div>
+  </article>
+
+{% endfor %}
+
+</section>
+
+{% include footer.html %}
