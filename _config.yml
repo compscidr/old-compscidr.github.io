@@ -1,3 +1,23 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Jason Ernst" # the name of your site, e.g. ACME Corp.
+
+collections_dir: collections
+collections:
+  projects:
+    output: true
+  publications:
+    output: true
+  presentations:
+    output: true
+  posts:
+    output: true
+  notes:
+    output: true
+
+social_links:
+  twitter: compscidr
+  github: compscidr
+  linkedin: in/jasonbernst
+  instagram: compscidr
+  medium: compscidr
