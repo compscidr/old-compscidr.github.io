@@ -4,8 +4,8 @@ title: "Second Beginning at Guelph &amp; September Conferences in Ontario!"
 published: true
 featured-image: "ticsth09_01.jpg"
 featured-alt: "Conference Venue, Ryerson University"
-categories: []
-tags: []
+categories: [Computer Science, Education, News, Wireless Networks]
+tags: [adhocnets 2009, TIC STH 2009, University of Guelph]
 ---
 This month I start for the second time at the University of Guelph, this time for my Ph.D. degree. I am continuing to work under the same supervisor and hopefully continue along with similar research in the area of wireless mesh networks. Our lab (PerWin) is supposed to be getting a bunch of new equipment from a company in Toronto so I will finally be able to move away from simulation and into some practical experiments.
 
