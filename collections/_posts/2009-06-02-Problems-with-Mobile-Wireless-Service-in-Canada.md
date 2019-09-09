@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Problems with Mobile / Wireless Service in Canada"
+title: "Problems with Mobile Wireless Service in Canada"
 published: true
 featured-image: ""
 featured-alt: ""
