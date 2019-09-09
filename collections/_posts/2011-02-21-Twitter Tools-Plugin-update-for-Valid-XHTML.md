@@ -8,7 +8,7 @@ categories: [Misc, Tutorials]
 tags: [	Fix, Plugin, Tools, Twitter, Wordpress]
 ---
 
-Today I noticed my site was not generating valid XHTML (for the 1.0 Strict Standard). I isolated some of the problems to the []"Twitter Tools" plugin for Wordpress](https://crowdfavorite.com/wordpress/). The problem is that a couple of parameters are not passed using the correct encoding (The & character is not properly encoded). The changes should be made to the "```twitter-tools.php```" file. Here is the original source for a couple of the offending lines:
+Today I noticed my site was not generating valid XHTML (for the 1.0 Strict Standard). I isolated some of the problems to the ["Twitter Tools" plugin for Wordpress](https://crowdfavorite.com/wordpress/). The problem is that a couple of parameters are not passed using the correct encoding (The & character is not properly encoded). The changes should be made to the "```twitter-tools.php```" file. Here is the original source for a couple of the offending lines:
 
 ```
 <div class="snippet"><code><link rel="stylesheet" type="text/css" href="'.site_url('/index.php?ak_action=aktt_css&v='.AKTT_VERSION).'" />	 	
