@@ -4,8 +4,8 @@ title: "Howto: Custom icons for Burg (Graphical Grub2)"
 published: true
 featured-image: "radiance-theme.png"
 featured-alt: ""
-categories: []
-tags: []
+categories: [Featured, Linux, Miscellaneous, Tutorials]
+tags: [2011, Backtrack, Burg, Chromium, Custom Icons, Grub2, Moblin, Themes]
 ---
 
 This is a short tutorial on how to create custom icons for Burg, since I have been trying out some new operating systems and noticed there are no icons for them. The tutorial will cover how to make the images in Gimp (although you could use Photoshop as well) as well as how to edit existing themes to add your custom icons into them.
