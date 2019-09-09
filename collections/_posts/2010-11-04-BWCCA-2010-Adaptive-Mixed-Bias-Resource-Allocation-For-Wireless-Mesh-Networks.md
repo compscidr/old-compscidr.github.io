@@ -4,8 +4,8 @@ title: "BWCCA 2010 - Adaptive Mixed Bias Resource Allocation for Wireless Mesh N
 published: true
 featured-image: "bwcca2010_1.jpg"
 featured-alt: ""
-categories: []
-tags: []
+categories: [Computer Science, Featured, News, Research, Wireless Networks]
+tags: [2010, Allocation, Bias, BWCCA, Ernst, Fukuoka, Japan, Jason, Mesh, Mixed, Network, Nkwe, Resource, Thabo, Wireless]
 ---
 
 Today I presented a recent paper on "Adaptive Mixed Bias Resource Allocation for Wireless Mesh Networks" at the BWCCA conference in Fukuoka Japan. The paper is authored by myself and Thabo Nkwe from the University of Guelph. The abstract is below:
