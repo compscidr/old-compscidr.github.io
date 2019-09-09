@@ -4,8 +4,8 @@ title: "A Frustrating Experience with Chromium OS"
 published: true
 featured-image: "partitions.png"
 featured-alt: "Example of the partitions"
-categories: [Misc]
-tags: [2010, Chromium OS, Google, GUID, MBR, Multiboot, Operating System, Partition]
+categories: [Misc, Tutorials]
+tags: [2010, Chromium OS, Google, GUID, MBR, Multiboot, Operating System, Partition, Grub 2, Ubuntu 10.04, Windows 7]
 ---
 
 Recently I reinstalled my laptop and was hoping to add chromium onto my multiboot setup. I can get it working with the standard USB key approach that is recommended on all of the guides, however it seems like moving it to the hard drive is a completely different story. When it is compiled from source and put on the USB key, the partitioning scheme is GUID, and I use the older MBR scheme. It seems to me the only way to get it to work together is either to use a full GUID partioning setup or use some weird hybrid or mixed scheme. From what I've read on other blogs, it doesn't seem particularly easy to get Windows to work with GUID. Also when you look at what gets created on the USB disk itself, its a mess of many partitions, and I'm not particularly fond of that. Perhaps this is an artifact of the GUID scheme since I'm not very familiar with it, so maybe someone can point me in a direction on how to proceed. For now I've given up and will wait and hope that Google will eventually release it in a way that is easy to add to MBR :S Until then I'll just grudgingly use the USB version since I don't want to dedicate my entire laptop hdd to using chromium os.
