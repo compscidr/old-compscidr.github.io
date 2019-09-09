@@ -4,8 +4,8 @@ title: "Update on the Lack of Updates & PhD Acceptance"
 published: true
 featured-image: ""
 featured-alt: ""
-categories: []
-tags: []
+categories: [Computer Science, News, Research, Simulation, Wireless Networks]
+tags: [Acceptance, AINA 2009, Guelph, ITC 2009, Ph.D., Project, Thesis, Toronto, Wireless]
 ---
 
 Just a quick post to let any readers know why there has been a lack of posts on the blog lately. I have been working like crazy on my thesis with the hope of completing it in the next month or so. I have also been preparing for the AINA 2009 conference I will be presenting at Bradford University in England. Also I have been working on a paper for a conference in Toronto (TIC-STH 2009 I think) with a deadline of May 1st May 31st (extended). So there's been alot going on and not much time.

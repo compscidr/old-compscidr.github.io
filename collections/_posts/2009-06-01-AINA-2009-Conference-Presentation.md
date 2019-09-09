@@ -4,8 +4,8 @@ title: "AINA 2009 Conference Presentation"
 published: true
 featured-image: "aina03.jpg"
 featured-alt: ""
-categories: []
-tags: []
+categories: [Computer Science, News, Research, Wireless Networks]
+tags: [2009, AINA 2009, Bradford, Fair Scheduling, Jason B. Ernst, Mesh, Mieso Denko, Networks, Publication, Research, Simulation, UK, Wireless]
 ---
 
 This past week I travelled to the UK to present at my first International Conference - Advanced Information Networking and Applications (AINA 2009) in Bradford, UK. My presentation was on "Fair Scheduling in Wireless Mesh Networks with Multiple Gateways". The paper for the conference was published in the main AINA conference and I presented on the first day, in the first session. It was nice to have it over with right away so that I could relax and focus on meeting as many people as possible at the conference.
