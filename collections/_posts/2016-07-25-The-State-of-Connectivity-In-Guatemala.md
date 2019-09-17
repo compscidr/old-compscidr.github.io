@@ -1,3 +1,13 @@
+---
+layout: default
+title: "The State of Connectivity in Guatemala"
+published: true
+featured-image: "pageloadtimes.png"
+featured-alt: "Page Load Times from the Akamai 2016 Q1 report"
+categories: [Wireless Networks]
+tags: [ Wireless Mesh Networks, Density, Akamai	]
+---
+
 Inspired by the [Akamai State of the Internet report](https://www.akamai.com/us/en/resources/our-thinking/state-of-the-internet-report/global-state-of-the-internet-connectivity-reports.jsp), this post is about the state of connectivity in Guatemala. Guatemala was chosen because it is one of the countries that uses the Yo! app the most, and is in our target markets. It is also quite different from what I am used to in Canada, and I am interested to know more about it from a connectivity point of view myself. In the 2016 Q1 report, this country is only mentioned in one section: web page load times.
 
 ![Page Load Times from the Akamai 2016 Q1 report](/assets/img/pageloadtimes.png)
@@ -8,9 +18,9 @@ However, this isn't the whole story. This is only the average time it takes to l
 
 ![Comparison of Populations & Densities between Guatemala, Canada & USA [http://www.worldometers.info/](http://www.worldometers.info/)](/assets/img/population-guatemala.png)
 
-As you can see from the densities � Guatemala is much more dense with 156 people per square km versus 35 in USA and 4 in Canada. This may partially explain the better result for mobile numbers. Since Canada and the USA are less dense, it is expensive to deliver consistent service across the country, likely resulting in some worse average results in their mobile networks. Counter-intuitively, it may be slightly better to be in places where density is higher, up to a certain point where the technology becomes the limiting factor rather than economics.
+As you can see from the densities - Guatemala is much more dense with 156 people per square km versus 35 in USA and 4 in Canada. This may partially explain the better result for mobile numbers. Since Canada and the USA are less dense, it is expensive to deliver consistent service across the country, likely resulting in some worse average results in their mobile networks. Counter-intuitively, it may be slightly better to be in places where density is higher, up to a certain point where the technology becomes the limiting factor rather than economics.
 
-The other side of the story is bandwidth � this will tell more of a story about how much raw data can be pushed and pulled by users in the network rather than just responsiveness for web traffic. Unfortunately, Guatemala does not have reported results for bandwidth / speed in the Akamai report. The last report I can find mention of Guatemala in is Q1 2014 � which states Guatemala�s bandwidth at 1.9 Mbps. At that time it had just doubled year over year, so I assume by now it is significantly higher. There are a few other websites reporting results � but there are typically few results so it is difficult to get a really representative number � which is likely why its been left of the list. The last 1000 results on the testmy.net Internet speed test for Guatemala show an average of 6.5Mbps down and 2.7Mbps up (not sure if this is peak or average from the website). Compare this with the United States with 15.3Mbps (avg) 67.8Mbps (peak) and Canada 14.3Mbps (avg) 59.6Mbps (peak).
+The other side of the story is bandwidth. This will tell more of a story about how much raw data can be pushed and pulled by users in the network rather than just responsiveness for web traffic. Unfortunately, Guatemala does not have reported results for bandwidth / speed in the Akamai report. The last report I can find mention of Guatemala in is Q1 2014, which states Guatemala�s bandwidth at 1.9 Mbps. At that time it had just doubled year over year, so I assume by now it is significantly higher. There are a few other websites reporting results � but there are typically few results so it is difficult to get a really representative number, which is likely why its been left of the list. The last 1000 results on the testmy.net Internet speed test for Guatemala show an average of 6.5Mbps down and 2.7Mbps up (not sure if this is peak or average from the website). Compare this with the United States with 15.3Mbps (avg) 67.8Mbps (peak) and Canada 14.3Mbps (avg) 59.6Mbps (peak).
 
 So while these numbers are really an apples and oranges comparison because USA and Canada are very different from Guatemala, it still shows how much the connectivity may be improved. There are other options however, to more effectively use what is available. Wireless mesh networks may provide ways in which more can be squeezed out of what is there. The biggest challenge with meshes is density. Let's see what happens in a country like Canada vs Guatemala. Let's look at a single square km, and randomly distribute people according to the population densities. Each person is represented by a black dot, and the coverage area of a Wi-Fi hotspot will be set to around 20m in a circle (of course in real life this may be farther or shorter, and not a perfect circle due to obstructions, antennas and other factors).
 

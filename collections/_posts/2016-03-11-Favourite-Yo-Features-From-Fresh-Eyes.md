@@ -1,4 +1,13 @@
-After being a part of the team working on [Yo!](https://play.google.com/store/apps/details?id=com.lotd.yoapp&hl=en) for almost a month I�ve had some time to dig into the inner workings and play with the app quite a bit. While we have a ton of really cool stuff coming out really soon, my favourite feature has to be how the app can track your data savings when you send messages, images, video and other content though our local hypernet instead of using the Internet like many other apps often do.
+---
+layout: default
+title: "Favourite Yo! Features From Fresh Eyes"
+published: true
+featured-image: "yo.png"
+featured-alt: "Yo! Data Savings"
+categories: [Wi-Fi, Offline messaging]
+tags: [Wi-Fi, Yo!]
+---
+After being a part of the team working on [Yo!](https://play.google.com/store/apps/details?id=com.lotd.yoapp&hl=en) for almost a month I've had some time to dig into the inner workings and play with the app quite a bit. While we have a ton of really cool stuff coming out really soon, my favourite feature has to be how the app can track your data savings when you send messages, images, video and other content though our local hypernet instead of using the Internet like many other apps often do.
 
 ![Yo Data Savings](/assets/img/yo.png)
 

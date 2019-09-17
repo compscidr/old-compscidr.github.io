@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Turning a Netgear r7000 into an augmented traffic control (atcd) router"
+published: true
+featured-image: "ddwrt.png"
+featured-alt: "ddwrt screenshot"
+categories: [Wireless Networks]
+tags: [ 3rd world, atcd, ddwrt, traffic-shaping, linux, open source, developing countries, Internet	]
+---
+
 At [work](https://left.io) we're developing apps that are being used in developing countries and half of the office works out of Vancouver where our networks are very good. Unfortunately, this means that we often don't think about user experience problems and bugs that occur only when the app is operating with a poor quality connection.
 
 To combat this, we are taking motivation from Facebook, which offers "2G Tuesdays" to employees so they can experience what it's like for people in other parts of the world. Facebook also released a tool call [Augmented Traffic Control](https://engineering.fb.com/production-engineering/augmented-traffic-control-a-tool-to-simulate-network-conditions/) which allows you to simulate these types of conditions with your own equipment.
