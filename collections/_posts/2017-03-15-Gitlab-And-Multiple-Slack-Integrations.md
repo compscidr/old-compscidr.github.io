@@ -63,3 +63,5 @@ Note: install curl with: `sudo apt-get install php-curl`
 Now you can just point your gitlab to this page on a webserver somewhere and let it forward it to your slack channels from the channels.txt file.
 
 ![the gitlab slack service integration where you can only set one url. Put the url to your php page here.](/assets/img/slack-gitlab.png)
+
+This was originally posted on Medium: [Gitlab + Multiple Slack Service Integrations](https://medium.com/@compscidr/gitlab-multiple-slack-service-integrations-26864084bc91)

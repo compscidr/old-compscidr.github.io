@@ -29,3 +29,5 @@ One of the things I’m most excited about is a small session of fewer than 20 p
 It will also be really awesome to attend the [50th Turing Awards](https://www.acm.org/turing-award-50/conference), where [Sir Tim Berners Lee](https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet) (inventor of the world wide web) will be receiving the award this year. There are lots of interesting sessions planned to go along with it. For the FCA event itself, there is a wide range of interests from the inaugural cohort but there are already sent common themes emerging such as improving opportunities for the developing world, women, engaging youth and many technical topics.
 
 ![](/assets/img/acmfca4.png)
+
+This was originally posted on Medium: [ACM Future of Computing Academy](https://medium.com/@compscidr/acm-future-of-computing-academy-aa179f542cdf)

@@ -38,3 +38,5 @@ Now that the basics of the platform have been created, we are moving towards imp
 Performance testing and debugging with some of our mobile mesh networking tools
 
 We are growing our expertise as well. I did my MSc and PhD in mesh networking and HetNets, but we also just added another PhD who is an expert in mesh network routing. We also added some developers with UX experience to help make the development kit even easier to developers to work with.
+
+This was originally posted on Medium: [One Year in — our mobile mesh platform is taking shape](https://medium.com/@compscidr/one-year-in-our-mobile-mesh-platform-is-taking-shape-99e272f70f42)
