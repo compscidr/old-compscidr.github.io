@@ -4,8 +4,8 @@ title: "One Year in — our mobile mesh platform is taking shape"
 published: true
 featured-image: "mesh-visualization.png"
 featured-alt: "Each device represents a different geographically separate mesh connecting to the Internet (video at bottom)"
-categories: [News]
-tags: []
+categories: [News, Wireless Networks]
+tags: [Wireless Mesh Network, Platform, Android]
 ---
 
 I’ve almost officially been at Left for a year — where I’ve been working on connecting the next billion people with mesh networks. One of the key insights our company has compared with those launching satellites, drones, and other expensive infrastructure plays is that infrastructure is not required. People all around the world can afford a mobile smartphone. Unfortunately, they cannot afford mobile internet access. We’re looking at the problem slightly differently — rather than connect everyone to the Internet — let’s connect them to each other with the equipment they already own (and wherever we can, also to the Internet). We’re aiming to do this with ~~[Wave](http://wave.io)~~ (we renamed it to [RightMesh](https://rightmesh.io) after the first year) which is the mobile mesh networking platform I’ve been building for the last few months. (note: a mobile mesh network is one where traffic travels from phone to phone to phone and not always through cellular towers or Wi-Fi access points).

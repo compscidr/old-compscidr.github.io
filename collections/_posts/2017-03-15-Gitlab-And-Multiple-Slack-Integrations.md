@@ -4,8 +4,8 @@ title: "Gitlab + Multiple Slack Service Integrations"
 published: true
 featured-image: "gitlab.png"
 featured-alt: "slack webhook url (gitlab only allows one of these per repo, corresponding to one slack group)"
-categories: []
-tags: []
+categories: [Fix, Software]
+tags: [Gitlab, Slack, Integration ]
 ---
 So we’ve got a Gitlab repo at work that we already have setup to publish merge requests and stuff to a slack channel where all of our developers can see them.
 
